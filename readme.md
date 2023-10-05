@@ -1,8 +1,8 @@
-### Online Cow Selling Backend for Eid Ul Adha
+### Online Cow Selling Backend
 
-This project is a simple backend project for a cow hut. It is a simple project that allows a user to add cows to the cow hut, and get the status of the cow hut. Seller can also sell cows from the cow hut app. and buyer can buy cows from the cow hut app. 
+This project is a straightforward cow hut backend. A user can add cows to the cow hut and check the state of the cow hut with this straightforward project. The cow hut app allows sellers to sell cows as well. and the cow hut app allows customers to purchase cows. 
 
-### All The Application Routes are given below:
+### All Routes:
 
 #### User
 - https://assigment-3-cow-hut.vercel.app/api/v1/auth/signup (POST) - For create a new user
